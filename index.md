@@ -12,22 +12,14 @@ title: Isaac Newtons's CV
 
 ## Interest
 
-Autonomous Robotic Navigation, Heterogeneous Multi-Robot System, Sensor Fusion. 한글
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Autonomous Robotic Navigation, Heterogeneous Multi-Robot System, Sensor Fusion.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Mar 2012 – Now`
+__Korea University__, Seoul, Republic of Korea
+- Bachelor of Electrical Engineering
+- Cumulative GPA: 3.88 / 4.5
 
 `June 1661 - now`
 __Trinity College, Cambridge__
