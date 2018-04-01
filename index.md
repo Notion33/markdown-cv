@@ -25,28 +25,23 @@ __Korea University__, Seoul, Republic of Korea
 ## PROJECTS
 
 `May 2017 – Mar 2018`
-Net_B-O-A-T-S
+ __Net_B-O-A-T-S__
 
-- Autonomous boats and multiple boats control server and WebDashboard development using RaspberryPi, GPS, IMU
+Autonomous boats and multiple boats control server and WebDashboard development using RaspberryPi, GPS, IMU
 By constructing wireless bridge using Ad-hoc within each boats,
 They can be remote controlled and controler can monitor HD camera(30fps, 280m) info and water temperature info in realtime.
-Used skill : Circuit Design, Localization(GPS,IMU using RTIMULIB2 or AHRS), Data collection(Camera, Water temperature), Embedded Programming(RaspberryPI using python, pwm, i2c, uart, 1-wire), 3D modeling(A360) & printing(Prusa i3,mendel,sli3r), Web(Google Map API), Multithread Programming, SocketIO(HTTP request).
-
+Used skill : Circuit Design, Localization(GPS, IMU using RTIMULIB2 or AHRS), Data Collection(Camera, Water temperature), Embedded Programming(RaspberryPI using Python, PWM, I2C, Uart, 1-wire), 3D Modeling(A360) & Printing(Prusa i3, Mendel, Sli3r), Web(Google Map API), Multithread Programming, SocketIO(HTTP request).
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Taeyeon Kim, Bumchul Jang, Hyungi Cho and Nakju Doh, “2D CAD extraction with a 3D PCD,” 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.__
 
-### Journals
+### TECHNICAL SKILLS
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+__Advanced__ C, Python, Embedded Programming (STM32, Atmega128, RaspberryPI, Tegra3, CC3200).
+__Moderate__ MATLAB, C++, Circuit Design.
+__Novice__ Markdown, LaTex.
 
 ### Patents
 
@@ -54,21 +49,26 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## ACTIVITIES
 
-`1600`
-__Royal Mint__, London
+`Mar 2014 – Now`
+__HandS__, Electrical Engineering Academy Club, Korea University.
+`May 2014 – Feb 2015`
+- Vice president of the club.
 
-- Warden
-- Minted coins
+`Feb 2015`
+__Samsung Friendship 3rd performance presentation__, Samsung.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Oct 2014`
+__Developer’s Delight__, Samsung.
+
+`2018, 2017, 2015`
+__Student Panel__, Newly appointed professor orientation, Korea University.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2018 -->
 
 
