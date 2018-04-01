@@ -35,12 +35,14 @@ Used skill : Circuit Design, Localization(GPS, IMU using RTIMULIB2 or AHRS), Dat
 
 ## Publications
 
-__Taeyeon Kim, Bumchul Jang, Hyungi Cho and Nakju Doh, “2D CAD extraction with a 3D PCD,” 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.__
+[Taeyeon Kim], Bumchul Jang, Hyungi Cho and Nakju Doh, __“2D CAD extraction with a 3D PCD,”__ 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.(3D PCD  2D 도면 추출기법)(http://m.site.naver.com/0nyqQ)
 
 ### TECHNICAL SKILLS
 
 __Advanced__ C, Python, Embedded Programming (STM32, Atmega128, RaspberryPI, Tegra3, CC3200).
+
 __Moderate__ MATLAB, C++, Circuit Design.
+
 __Novice__ Markdown, LaTex.
 
 ### Patents
