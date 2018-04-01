@@ -43,7 +43,7 @@ Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학
 `Jun 2017 – Nov 2017`
  __I was CAR__
 
-Tegra3, STM32, OpenCV를 활용해 Vision based autonomous model vehicle을 개발하였다.
+제 15회 임베디드소프트웨어 경진대회 참가작으로 Tegra3, STM32, OpenCV를 활용해 영상기반 자율주행모형자동차 소프트웨어를 개발하였다.
 Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한 다음의 8가지 코스를 순서에 상관없이 Robust하게 통과할 수 있다.
 직선주행, S자 코스, 돌발장애물, 수직 및 수평 주차코드, 움직이는 자동차가 존재하는 로터리, 2개의 장애물이 존재하는 3차선 구간, 요철구간, 신호등에 맞추어 좌회전 및 우회전을 해야하는 코스
 
@@ -60,19 +60,24 @@ MOT2015 Benchmark를 이용해 기존 기법들과 MOTA 및 MOTP를 비교 및 �
 `Aug 2014 – Mar 2015`
  __Quintuple HandS__
 
-CC3200(Texas Instruments) 및 Embedded Programming을 이용해 
+CC3200(Texas Instruments), Embedded Programming, JavaScript를 이용해 웹기반 다기능 멀티탭을 제작하였다.
+멀티탭은 비용절감을 위해 Wifi를 사용하는 5구 메인모듈과, zigbee를 사용하는 서브모듈로 구성되어 있으며, 각각의 모듈은 가변형으로 제작되어 있다.
+추가적으로, IR LED를 이용하여 에어컨 ON/OFF, TV ON/OFF 및 채널, 음량변경 기능이 가능하다.
+회로는 HiccupMode와 PolySwitch, Thermal Fuse를 이용해 실제 사용할 수 있도록 안정성을 강화시켰다.
+3D모델링과 프린팅을 하여 엔클로저를 제작하였다.
 
 
 `May 2014 – Jun 2014`
  __Autonomous Mini-Drone__
 
-CC3200(Texas Instruments) 및 Embedded Programming을 이용해 
+2014 미니드론 자율비행 경진대회 참가작으로, STM32, Ubuntu 기반 Crazyfly와 OpenCV를 이용해
+Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발하였다.
 
 
 `2007 – 2010`
  __개념있는업로더__
 
-CC3200(Texas Instruments) 및 Embedded Programming을 이용해 
+개인용컴퓨터를 이용해 제로보드4 (APM, PHP, MySQL)를 이용하여 무료 이미지호스팅(CDN)을 제공하였다.
 
 ## Publications
 
@@ -80,11 +85,11 @@ CC3200(Texas Instruments) 및 Embedded Programming을 이용해
 
 ### TECHNICAL SKILLS
 
-__Advanced__ C, Python, Embedded Programming (STM32, Atmega128, RaspberryPI, Tegra3, CC3200).
+__Advanced__ C, Python, Embedded Programming (STM32, Atmega128, RaspberryPI, ESP8266, Tegra3, CC3200, Attiny8), 3D Printing(Prusa-Mendel)
 
-__Moderate__ MATLAB, C++, Circuit Design(Ultiboard).
+__Moderate__ MATLAB, C++, OpenCV, DarkNet, Circuit Design(Ultiboard), MicroPython, Lua, PCD.
 
-__Novice__ Markdown, LaTex.
+__Novice__ Markdown, LaTex, A360, Solidworks.
 
 ### Patents
 
@@ -107,7 +112,7 @@ __Samsung Friendship 3rd 성과발표회__, Samsung.
 __Developer’s Delight__, Samsung.
 
 `2018, 2017, 2015`
-__Student Panel__, Newly appointed professor orientation, Korea University.
+__학생패널__, 신임교원오리엔테이션, 고려대학교 대학교육개발원.
 
 
 
