@@ -55,6 +55,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 `Mar 2014 – Now`
 __HandS__, Electrical Engineering Academy Club, Korea University.
+
 `May 2014 – Feb 2015`
 - Vice president of the club.
 
