@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Taeyeon Kim's CV
 ---
 # Taeyeon Kim
 
