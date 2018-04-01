@@ -3,17 +3,16 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Taeyeon Kim
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="notion33@gmail.com">notion33@gmail.com</a>
+| (+82) 10-8387-3327
 </div>
 
 
-## Currently
+## Interest
 
-Standing on the shoulders of giants
+Autonomous Robotic Navigation, Heterogeneous Multi-Robot System, Sensor Fusion. 한글
 
 ### Specialized in
 
