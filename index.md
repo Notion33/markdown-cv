@@ -35,7 +35,7 @@ Used skill : Circuit Design, Localization(GPS, IMU using RTIMULIB2 or AHRS), Dat
 
 ## Publications
 
-[Taeyeon Kim], Bumchul Jang, Hyungi Cho and Nakju Doh, __“2D CAD extraction with a 3D PCD,”__ 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.(3D PCD  2D 도면 추출기법)(http://m.site.naver.com/0nyqQ)
+[Taeyeon Kim, Bumchul Jang, Hyungi Cho and Nakju Doh, __“2D CAD extraction with a 3D PCD,”__ 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.(3D PCD 2D 도면 추출기법)](http://m.site.naver.com/0nyqQ)
 
 ### TECHNICAL SKILLS
 
@@ -54,13 +54,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## ACTIVITIES
 
 `Mar 2014 – Now`
-__HandS__, Electrical Engineering Academy Club, Korea University.
+__HandS__, 전기전자공학부 전공학회, 고려대학교.
 
 `May 2014 – Feb 2015`
 - Vice president of the club.
 
 `Feb 2015`
-__Samsung Friendship 3rd performance presentation__, Samsung.
+__Samsung Friendship 3rd 성과발표회__, Samsung.
 
 `Oct 2014`
 __Developer’s Delight__, Samsung.
