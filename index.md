@@ -41,8 +41,6 @@ __Korea University__, Seoul, Republic of Korea
 - Multithread Programming
 - SocketIO(HTTP request)
  
- 
-작품 포스터
 
 [![2018Qualcomm_NetBoats_Poster](http://drive.google.com/uc?export=view&id=1bWyvNkD-ocZovHWVvYw2oKoxz5Jm7vAI)](http://drive.google.com/uc?export=view&id=1lMW6f3SK_3ZcnGbU5s2FbLtU7i8ed737)
 
@@ -65,8 +63,6 @@ Linear Actuator를 활용해 한개의 먹이급이기, 온도센서, 수위센�
 Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학습시켜 RaspberryPI Standalone으로 개체수를 측정할 수 있다.
 
 
-작품 포스터
-
 [![FFISHFFISH_MULFFISH_Poster](http://drive.google.com/uc?export=view&id=1KgPbXpcZQVvlFd_hhxoaHb08iMAKnprE)](http://drive.google.com/uc?export=view&id=1ya3Rz2qy-nsAP70sgnkc6-ov938WnsHa)
 
 
@@ -82,6 +78,7 @@ Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학
  __I was CAR__
 
 - 제 15회 임베디드소프트웨어 경진대회 참가작으로 Tegra3, STM32, OpenCV를 활용해 영상기반 자율주행모형자동차 소프트웨어를 개발하였다.
+
 - Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한 다음의 8가지 코스를 순서에 상관없이 Robust하게 통과할 수 있다.
 
 - 직선주행
@@ -94,8 +91,6 @@ Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학
 - 요철구간
 - 신호등에 맞추어 좌혹은 우회전 코스
 
-
-작품 포스터
 
 [![IwasCAR_Poster](http://drive.google.com/uc?export=view&id=1hO6KInJM7E8tTJpzHfwdra-DLr_gLFbT)](https://drive.google.com/open?id=1HCUxXwYC300ayrTALB4wh8zFSEYsZls8)
 
@@ -111,13 +106,10 @@ Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학
 `Apr 2017 – Jun 2017`
  __Multiple Object Tracking using Object Detection based on CNN__
 
-CNN을 이용해 (Framework : Caffe, Architecture : VGG-16, TrainingData : VOC 2007/2012,COCO 2014)으로 학습시켜 Object detection(사람)을 하고,
-
-RGB Histogram, CNN의 Fully Connected Layer Value, Maxpolling Layer Value의 Weighted Sum을 이용해 Object Tracking을 진행한다.
-
-Tracking 실패 객체가 발생시 Mean Shift Tracking을 이용해 한번 더 Tracking하여 정확도를 향상시켰다.
-
-MOT2015 Benchmark를 이용해 기존 기법들과 MOTA 및 MOTP를 비교 및 분석했다.
+- CNN을 이용해 (Framework : Caffe, Architecture : VGG-16, TrainingData : VOC 2007/2012,COCO 2014)으로 학습시켜 Object detection(사람)을 하고,
+- RGB Histogram, CNN의 Fully Connected Layer Value, Maxpolling Layer Value의 Weighted Sum을 이용해 Object Tracking을 진행한다.
+- Tracking 실패 객체가 발생시 Mean Shift Tracking을 이용해 한번 더 Tracking하여 정확도를 향상시켰다.
+- MOT2015 Benchmark를 이용해 기존 기법들과 MOTA 및 MOTP를 비교 및 분석했다.
 
 
 `Aug 2014 – Mar 2015`
