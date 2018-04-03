@@ -159,6 +159,8 @@ Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발�
 
 개인용컴퓨터를 이용해 제로보드4 (APM, PHP, MySQL)를 이용하여 무료 이미지호스팅(CDN)을 제공하였다.
 
+오픈마켓(옥션,G마켓 등) 상품 이미지 링크, 각종 인터넷 커뮤니티 게시판에 이미지 링크를 제공할 수 있는 서비스이다.
+
 ![NotionUploader](http://drive.google.com/uc?export=view&id=14TCv7KhelpsIVPwa7BDETaCBqh6g3WeL)
 
 [과거 홈페이지 이미지 아카이브](http://web.archive.org/web/20100709080550/http://file.notion.kr:80/)
