@@ -67,15 +67,15 @@ Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학
 
 작품 포스터
 
-[![2018Qualcomm_NetBoats_Poster](http://drive.google.com/uc?export=view&id=1bWyvNkD-ocZovHWVvYw2oKoxz5Jm7vAI)](http://drive.google.com/uc?export=view&id=1lMW6f3SK_3ZcnGbU5s2FbLtU7i8ed737)
+[![FFISHFFISH_MULFFISH_Poster](http://drive.google.com/uc?export=view&id=1KgPbXpcZQVvlFd_hhxoaHb08iMAKnprE)](http://drive.google.com/uc?export=view&id=1ya3Rz2qy-nsAP70sgnkc6-ov938WnsHa)
 
 
 작품 영상
 
-[![작품영상](http://img.youtube.com/vi/iYtUNEpcacs/0.jpg)](https://youtu.be/iYtUNEpcacs)
+[![작품영상](http://img.youtube.com/vi/jfsvH0YcjDc/0.jpg)](https://youtu.be/jfsvH0YcjDc)
 
 
-[Net_B-O-A-T-S 작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)
+[꼬기꼬기물꼬기 작품보고서](https://drive.google.com/open?id=1I3e_PyXd1_3AT57ZleCXVEN8m-klMARM)
 
 
 `Jun 2017 – Nov 2017`
