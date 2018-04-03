@@ -148,7 +148,7 @@ CC3200(Texas Instruments), Embedded Programming, JavaScript를 이용해 웹기�
 
 Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발하였다.
 
-![IMDRONE](https://drive.google.com/open?id=1DOxluwuQPMXj1xqmPQpx7MFIF6-K9rSR)
+![IMDRONE](http://drive.google.com/uc?export=view&id=1DOxluwuQPMXj1xqmPQpx7MFIF6-K9rSR)
 
 
 [자율주행미니드론 작품보고서](https://drive.google.com/open?id=1eeNPLiPTeuuT-X-DA5DsHG23u2LQFggc)
@@ -159,7 +159,7 @@ Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발�
 
 개인용컴퓨터를 이용해 제로보드4 (APM, PHP, MySQL)를 이용하여 무료 이미지호스팅(CDN)을 제공하였다.
 
-![NotionUploader](https://drive.google.com/open?id=14TCv7KhelpsIVPwa7BDETaCBqh6g3WeL)
+![NotionUploader](http://drive.google.com/uc?export=view&id=14TCv7KhelpsIVPwa7BDETaCBqh6g3WeL)
 
 [과거 홈페이지 이미지 아카이브](http://web.archive.org/web/20100709080550/http://file.notion.kr:80/)
 
