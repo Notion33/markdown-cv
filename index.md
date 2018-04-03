@@ -127,9 +127,9 @@ CC3200(Texas Instruments), Embedded Programming, JavaScript를 이용해 웹기�
 3D모델링과 프린팅을 하여 엔클로저를 제작하였다.
 
 
-[![Quintuple_HandS](http://drive.google.com/uc?export=view&id=1n2T0jnRnhaWBSiSGGKHusfjKL26UTT9g)]
-[![Quintuple_HandS](http://drive.google.com/uc?export=view&id=17dIU_Uu5eU6QFitbnA5bPVvwCzaZrloG)]
-[![Quintuple_HandS](http://drive.google.com/uc?export=view&id=18UCuZzb9QMN8iGIDc-iITxz_yKDk7Ibm)]
+![Quintuple_HandS](http://drive.google.com/uc?export=view&id=1n2T0jnRnhaWBSiSGGKHusfjKL26UTT9g)
+![Quintuple_HandS](http://drive.google.com/uc?export=view&id=17dIU_Uu5eU6QFitbnA5bPVvwCzaZrloG)
+![Quintuple_HandS](http://drive.google.com/uc?export=view&id=18UCuZzb9QMN8iGIDc-iITxz_yKDk7Ibm)
 
 
 작품 영상
