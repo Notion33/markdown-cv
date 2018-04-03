@@ -81,9 +81,9 @@ Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학
 `Jun 2017 – Nov 2017`
  __I was CAR__
 
-제 15회 임베디드소프트웨어 경진대회 참가작으로 Tegra3, STM32, OpenCV를 활용해 영상기반 자율주행모형자동차 소프트웨어를 개발하였다.
+- 제 15회 임베디드소프트웨어 경진대회 참가작으로 Tegra3, STM32, OpenCV를 활용해 영상기반 자율주행모형자동차 소프트웨어를 개발하였다.
+- Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한 다음의 8가지 코스를 순서에 상관없이 Robust하게 통과할 수 있다.
 
-Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한 다음의 8가지 코스를 순서에 상관없이 Robust하게 통과할 수 있다.
 - 직선주행
 - S자 코스
 - 돌발장애물
@@ -93,6 +93,19 @@ Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한
 - 2개의 장애물이 존재하는 3차선 구간
 - 요철구간
 - 신호등에 맞추어 좌혹은 우회전 코스
+
+
+작품 포스터
+
+[![IwasCAR_Poster](http://drive.google.com/uc?export=view&id=1hO6KInJM7E8tTJpzHfwdra-DLr_gLFbT)](https://drive.google.com/open?id=1HCUxXwYC300ayrTALB4wh8zFSEYsZls8)
+
+
+작품 영상
+
+[![작품영상](http://img.youtube.com/vi/GQdmzJybGeU/0.jpg)](https://www.youtube.com/watch?v=GQdmzJybGeU)
+
+
+[I was CAR 작품보고서](https://drive.google.com/open?id=1_VQAq8R3vow2dD88BDggQyHVJqS0DF-6)
 
 
 `Apr 2017 – Jun 2017`
