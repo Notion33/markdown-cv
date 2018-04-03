@@ -40,6 +40,10 @@ RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 
  - Web(Google Map API)
  - Multithread Programming
  - SocketIO(HTTP request)
+ 
+ 작품 관련 자료
+ - ![작품포스터](https://cdn.namu.wiki/r/http%3A%2F%2Fi.imgur.com%2F2megHz2.png "툴팁 메시지. 이 부분은 생략해도 됩니다.")
+ - ![작품영상](https://cdn.namu.wiki/r/http%3A%2F%2Fi.imgur.com%2F2megHz2.png "툴팁 메시지. 이 부분은 생략해도 됩니다.")
 
 
 `Sep 2017 – Nov 2017`
@@ -108,7 +112,7 @@ Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발�
 
 개인용컴퓨터를 이용해 제로보드4 (APM, PHP, MySQL)를 이용하여 무료 이미지호스팅(CDN)을 제공하였다.
 
-## Publications
+### Publications
 
 [Taeyeon Kim, Bumchul Jang, Hyungi Cho and Nakju Doh, __“2D CAD extraction with a 3D PCD,”__ 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.(3D PCD 2D 도면 추출기법)](http://m.site.naver.com/0nyqQ)
 
@@ -126,13 +130,13 @@ __Novice__ Markdown, LaTex, A360, Solidworks.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## ACTIVITIES
+### ACTIVITIES
 
 `Mar 2014 – Now`
 __HandS__, 전기전자공학부 전공학회, 고려대학교.
 
 `May 2014 – Feb 2015`
-- Vice president of the club.
+- 전공학회 HandS 부회장
 
 `Feb 2015`
 __Samsung Friendship 3rd 성과발표회__, Samsung.
@@ -147,6 +151,6 @@ __학생패널__, 신임교원오리엔테이션, 고려대학교 대학교육�
 
 <!-- ### Footer
 
-Last updated: May 2018 -->
+Last updated: 04.03.2018 -->
 
 
