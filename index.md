@@ -115,6 +115,8 @@ Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한
 
 [![MOT_Poster](http://drive.google.com/uc?export=view&id=1oujsHUHlHWlC6yDctJb3XKRwkF-uu_Ge)](http://drive.google.com/uc?export=view&id=16do1q5orRsw_teI4pDX1vaImwkh8DeOj)
 
+[MOT 졸업논문 파일](https://drive.google.com/open?id=1P1ktkTYpzwBN3pYmyFHZBCXxgRtw7cON)
+
 
 `Aug 2014 – Mar 2015`
  __Quintuple HandS__
