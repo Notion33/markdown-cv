@@ -42,10 +42,12 @@ RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 
 - SocketIO(HTTP request)
  
  작품 관련 자료
-- ![작품포스터](https://hands-discourse-backup.s3-ap-northeast-1.amazonaws.com/original/1X/f326a5e3776ac17f421ec504b3d997fa155ae7db.jpg" Net_B-O-A-T-S Qualcomm2017 ICT Awards Poster")
-- ![작품영상](https://cdn.namu.wiki/r/http%3A%2F%2Fi.imgur.com%2F2megHz2.png "툴팁 메시지. 이 부분은 생략해도 됩니다.")
+
+- 작품 포스터
+![2018Qualcomm_NetBoats_final|333x500](upload://yH0PlUJDNJVTMSIqv4unUCbX6Wv.jpg)
+
 - 작품 영상
-- [<img src='//hands-discourse-backup.s3-ap-northeast-1.amazonaws.com/original/1X/e2c65938eda171e5cda978eb95b65d703040f66f.jpg' alt='작품영상'>](https://www.youtube.com/watch?v=iYtUNEpcacs)
+[<img src='//hands-discourse-backup.s3-ap-northeast-1.amazonaws.com/original/1X/e2c65938eda171e5cda978eb95b65d703040f66f.jpg' alt='작품영상'>](https://www.youtube.com/watch?v=iYtUNEpcacs)
 
 `Sep 2017 – Nov 2017`
  __꼬기꼬기물꼬기__
