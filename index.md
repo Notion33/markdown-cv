@@ -27,9 +27,8 @@ __Korea University__, Seoul, Republic of Korea
 `May 2017 – Mar 2018`
  __Net_B-O-A-T-S__
 
-RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 서버 및 웹페이지 개발.
-
-각 보트끼리는 Adhoc을 이용해 징검다리 네트워크를 구축하여 장거리 원격제어가 가능하며, 관측자가 최전방 노드에 위치한 보트의 영상 및 수온정보를 실시간으로 모니터링 할 수 있다.
+- RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 서버 및 웹페이지 개발.
+- 각 보트끼리는 Adhoc을 이용해 징검다리 네트워크를 구축하여 장거리 원격제어가 가능하며, 관측자가 최전방 노드에 위치한 보트의 영상 및 수온정보를 실시간으로 모니터링 할 수 있다.
 
 
  사용된기술
@@ -42,18 +41,16 @@ RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 
 - Multithread Programming
 - SocketIO(HTTP request)
  
-- 작품 포스터
-
+ 
+작품 포스터
 [![2018Qualcomm_NetBoats_Poster](http://drive.google.com/uc?export=view&id=1bWyvNkD-ocZovHWVvYw2oKoxz5Jm7vAI)](http://drive.google.com/uc?export=view&id=1lMW6f3SK_3ZcnGbU5s2FbLtU7i8ed737)
 
 
-- 작품 영상
-
+작품 영상
 [![작품영상](http://img.youtube.com/vi/iYtUNEpcacs/0.jpg)](https://youtu.be/iYtUNEpcacs)
 
 
-- 작품 보고서
-
+작품 보고서
 [작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)
 
 
