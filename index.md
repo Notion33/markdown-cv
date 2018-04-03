@@ -52,9 +52,7 @@ __Korea University__, Seoul, Republic of Korea
 [![작품영상](http://img.youtube.com/vi/iYtUNEpcacs/0.jpg)](https://youtu.be/iYtUNEpcacs)
 
 
-작품 보고서
-
-[작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)
+[Net_B-O-A-T-S 작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)
 
 
 `Sep 2017 – Nov 2017`
@@ -65,6 +63,19 @@ RaspberryPi, Scheduler, Webdashboard, YOLO(CNN)을 활용한 다기능 어류양
 Linear Actuator를 활용해 한개의 먹이급이기, 온도센서, 수위센서, PH센서, 카메라를 이용해 다수의 수조를 관리할 수 있다.
 
 Darknet 기반의 Tiny YOLO(CNN)을 이용해 구피(열대어) 이미지를 학습시켜 RaspberryPI Standalone으로 개체수를 측정할 수 있다.
+
+
+작품 포스터
+
+[![2018Qualcomm_NetBoats_Poster](http://drive.google.com/uc?export=view&id=1bWyvNkD-ocZovHWVvYw2oKoxz5Jm7vAI)](http://drive.google.com/uc?export=view&id=1lMW6f3SK_3ZcnGbU5s2FbLtU7i8ed737)
+
+
+작품 영상
+
+[![작품영상](http://img.youtube.com/vi/iYtUNEpcacs/0.jpg)](https://youtu.be/iYtUNEpcacs)
+
+
+[Net_B-O-A-T-S 작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)
 
 
 `Jun 2017 – Nov 2017`
