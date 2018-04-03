@@ -54,7 +54,7 @@ RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 
 
 - 작품 보고서
 
-[작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)]
+[작품보고서](https://drive.google.com/open?id=1Vi7zb170BnN9mkZTfhFAfiDFdBLASj9v)
 
 
 `Sep 2017 – Nov 2017`
