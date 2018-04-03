@@ -107,10 +107,13 @@ Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한
 `Apr 2017 – Jun 2017`
  __Multiple Object Tracking using Object Detection based on CNN__
 
-- CNN을 이용해 (Framework : Caffe, Architecture : VGG-16, TrainingData : VOC 2007/2012,COCO 2014)으로 학습시켜 Object detection(사람)을 하고,
+- 졸업논문 작품으로써 CNN을 이용해 (Framework : Caffe, Architecture : Faster R-CNN, TrainingData : VOC 2007/2012, COCO 2014)으로 학습시켜 Object detection(사람)을 하고,
 - RGB Histogram, CNN의 Fully Connected Layer Value, Maxpolling Layer Value의 Weighted Sum을 이용해 Object Tracking을 진행한다.
 - Tracking 실패 객체가 발생시 Mean Shift Tracking을 이용해 한번 더 Tracking하여 정확도를 향상시켰다.
 - MOT2015 Benchmark를 이용해 기존 기법들과 MOTA 및 MOTP를 비교 및 분석했다.
+
+
+[![MOT_Poster](http://drive.google.com/uc?export=view&id=1oujsHUHlHWlC6yDctJb3XKRwkF-uu_Ge)](http://drive.google.com/uc?export=view&id=16do1q5orRsw_teI4pDX1vaImwkh8DeOj)
 
 
 `Aug 2014 – Mar 2015`
