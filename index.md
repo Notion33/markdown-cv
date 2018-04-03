@@ -137,22 +137,31 @@ CC3200(Texas Instruments), Embedded Programming, JavaScript를 이용해 웹기�
 [![작품영상](http://img.youtube.com/vi/L5M-odrDBwU/0.jpg)](https://youtu.be/L5M-odrDBwU)
 
 
-[Quintuple_HandS 작품보고서](https://drive.google.com/open?id=1I3e_PyXd1_3AT57ZleCXVEN8m-klMARM)
+[Quintuple_HandS 작품보고서](https://drive.google.com/open?id=1j8HDoxZGckqWbWpfRN1DqCrqDh-001kN)
 
 
 
 `May 2014 – Jun 2014`
- __Autonomous Mini-Drone__
+ __자율주행미니드론__
 
-2014 미니드론 자율비행 경진대회 참가작으로, STM32, Ubuntu 기반 Crazyfly와 OpenCV를 이용해
+2014 미니드론 자율비행 경진대회 참가작으로, STM32, Ubuntu기반 Crazyfly와 OpenCV를 이용해
 
 Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발하였다.
+
+![IMDRONE](https://drive.google.com/open?id=1DOxluwuQPMXj1xqmPQpx7MFIF6-K9rSR)
+
+
+[자율주행미니드론 작품보고서](https://drive.google.com/open?id=1eeNPLiPTeuuT-X-DA5DsHG23u2LQFggc)
 
 
 `2007 – 2010`
  __개념있는업로더__
 
 개인용컴퓨터를 이용해 제로보드4 (APM, PHP, MySQL)를 이용하여 무료 이미지호스팅(CDN)을 제공하였다.
+
+![NotionUploader](https://drive.google.com/open?id=14TCv7KhelpsIVPwa7BDETaCBqh6g3WeL)
+
+[과거 홈페이지 이미지 아카이브](http://web.archive.org/web/20100709080550/http://file.notion.kr:80/)
 
 ### Publications
 
