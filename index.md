@@ -112,6 +112,8 @@ Camera(600x480, YUV) 및 PSD 센서를 이용하여 면허시험에서 필요한
 - Tracking 실패 객체가 발생시 Mean Shift Tracking을 이용해 한번 더 Tracking하여 정확도를 향상시켰다.
 - MOT2015 Benchmark를 이용해 기존 기법들과 MOTA 및 MOTP를 비교 및 분석했다.
 
+![MOT_Example_1](http://drive.google.com/uc?export=view&id=1d0Y5LjsyI4NbH6mUJomUGtDgN4ycHgwZ)
+![MOT_Example_2](http://drive.google.com/uc?export=view&id=17GH3Qd0s6WtvtJLI38875JC-Mda2Od76)
 
 [![MOT_Poster](http://drive.google.com/uc?export=view&id=1oujsHUHlHWlC6yDctJb3XKRwkF-uu_Ge)](http://drive.google.com/uc?export=view&id=16do1q5orRsw_teI4pDX1vaImwkh8DeOj)
 
