@@ -44,10 +44,10 @@ RaspberryPI, GPS, IMU를 이용한 자율주행 보트 및 다중 보트 제어 
  작품 관련 자료
 
 - 작품 포스터
-![2018Qualcomm_NetBoats_final](https://hands-discourse-backup.s3-ap-northeast-1.amazonaws.com/original/1X/f326a5e3776ac17f421ec504b3d997fa155ae7db.jpg)
+![2018Qualcomm_NetBoats_final|333x500](https://hands-discourse-backup.s3-ap-northeast-1.amazonaws.com/original/1X/f326a5e3776ac17f421ec504b3d997fa155ae7db.jpg)
 
 - 작품 영상
-[<img src='//hands-discourse-backup.s3-ap-northeast-1.amazonaws.com/original/1X/e2c65938eda171e5cda978eb95b65d703040f66f.jpg' alt='작품영상'>](https://www.youtube.com/watch?v=iYtUNEpcacs)
+[![작품영상](http://img.youtube.com/vi/iYtUNEpcacs/0.jpg)](https://youtu.be/iYtUNEpcacs) 1
 
 `Sep 2017 – Nov 2017`
  __꼬기꼬기물꼬기__
