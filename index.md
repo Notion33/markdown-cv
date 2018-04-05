@@ -9,7 +9,6 @@ title: Taeyeon Kim's CV
 | (+82)10-8387-3327
 </div>
 
-![temp](https://mailfoogae.appspot.com/t?sender=abm90aW9uMzNAZ21haWwuY29t&amp;type=zerocontent&amp;guid=3fe7f787-9064-4117-97a7-294f2344b02a)
 
 ## Interest
 
