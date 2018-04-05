@@ -203,7 +203,7 @@ __Developer’s Delight__, Samsung.
 `2018, 2017, 2015`
 __학생패널__, 신임교원오리엔테이션, 고려대학교 대학교육개발원.
 
-
+![temp](https://mailfoogae.appspot.com/t?sender=abm90aW9uMzNAZ21haWwuY29t&amp;type=zerocontent&amp;guid=3fe7f787-9064-4117-97a7-294f2344b02a)
 
 <!-- ### Footer
 
