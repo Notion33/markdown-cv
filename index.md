@@ -175,7 +175,7 @@ Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발�
 
 ### Publications
 
-[Taeyeon Kim, Bumchul Jang, Hyungi Cho and Nakju Doh, __“2D CAD extraction with a 3D PCD,”__ 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.(3D PCD 2D 도면 추출기법)](http://m.site.naver.com/0nyqQ)
+[Taeyeon Kim, Bumchul Jang, Hyungi Cho and Nakju Doh, __“2D CAD extraction with a 3D PCD,”__ 30th Workshop on Image Processing and Image Understanding(IPIU), Feb 2018.](http://m.site.naver.com/0nyqQ)
 
 ### TECHNICAL SKILLS
 
