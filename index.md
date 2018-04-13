@@ -179,7 +179,7 @@ Altitude Hold(Hovering)와 목적지 착륙가능한 소프트웨어를 개발�
 
 ### TECHNICAL SKILLS
 
-__Advanced__ C, Python, Embedded Programming (STM32, Atmega128, RaspberryPI, ESP8266, Tegra3, CC3200, Attiny8), 3D Printing(Prusa-Mendel)
+__Advanced__ C, Python, Embedded Programming (Atmega128, Cortex-M4, RaspberryPI, ESP8266, Tegra3, CC3200, Attiny8), 3D Printing(Prusa-Mendel)
 
 __Moderate__ MATLAB, C++, OpenCV, DarkNet, Circuit Design(Ultiboard), MicroPython, Lua, PCD.
 
