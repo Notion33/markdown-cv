@@ -6,7 +6,6 @@ title: Taeyeon Kim's CV
 
 <div id="webaddress">
 <a href="notion33@gmail.com">notion33@gmail.com</a>
-| (+82)10-8387-3327
 </div>
 
 
