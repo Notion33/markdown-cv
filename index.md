@@ -9,10 +9,6 @@ title: Taeyeon Kim's CV
 </div>
 
 
-## Interest
-
-Task Planning, Multi-modal Sensor Fusion, Heterogeneous Multi-Robot System.
-
 ## Education
 
 `Mar 2012 – Now`
