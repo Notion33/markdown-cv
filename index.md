@@ -5,7 +5,7 @@ title: Taeyeon Kim's CV
 # Taeyeon Kim
 
 <div id="webaddress">
-<a href="notion33@gmail.com">notion33@gmail.com</a>
+<a href="taeyeon.k@kaist.ac.kr">taeyeon.k@kaist.ac.kr</a>
 </div>
 
 
@@ -14,7 +14,7 @@ title: Taeyeon Kim's CV
 `Mar 2012 – Now`
 __Korea University__, Seoul, Republic of Korea
 - Bachelor of Electrical Engineering
-- Cumulative GPA: 3.87 / 4.5
+- Magna Cum Laude
 
 
 ## PROJECTS
